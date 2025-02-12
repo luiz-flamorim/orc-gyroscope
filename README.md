@@ -1,0 +1,2 @@
+# OSC Gyroscope
+This is an experiment in using OSC in NodeJS to control a virtual object using the iphone gyroscope. It's necessary to install **ZIG SIM** app, adjust the message format, port number and IP address accordingly.
